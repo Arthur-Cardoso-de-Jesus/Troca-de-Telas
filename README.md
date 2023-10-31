@@ -15,8 +15,10 @@
 <a href=./trocaTelas.apk>Download APK </a>
 
 ### Layout mobile:
+<div>
 <img width=200px src="https://github.com/Arthur-Cardoso-de-Jesus/Troca-de-Telas/assets/83030989/18fa8d11-21c1-41ca-8f1c-fa225771cd51">
-
+<img width=200px src="https://github.com/Arthur-Cardoso-de-Jesus/Troca-de-Telas/assets/83030989/29e6a873-f953-4026-9234-a0774a91b938">
+</div>
 
 
 <br><br>
